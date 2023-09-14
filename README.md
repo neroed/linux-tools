@@ -1,2 +1,2 @@
 # linux-tools
-Linux中常用的脚步管理工具
+Linux中常用的脚本管理工具
